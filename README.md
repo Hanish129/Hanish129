@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Hanish129
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Job
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+- 📫 How to reach me :badamhanish1@gmail.com
+  
 
 <!---
 Hanish129/Hanish129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
